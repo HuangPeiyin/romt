@@ -1,4 +1,4 @@
-# romt2
+# romt
 
 ## Project setup
 ```
