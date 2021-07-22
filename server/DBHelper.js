@@ -4,7 +4,7 @@ module.exports = {
         host: 'localhost',
         port: '3306',
         user: 'root',
-        password: 'hpy19479',
+        password: '数据库密码',
         database: 'romt'
     }
 }
