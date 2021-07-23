@@ -3,8 +3,8 @@ module.exports = {
     mysql: {
         host: 'localhost',
         port: '3306',
-        user: 'root',
+        user: '用户名',
         password: '数据库密码',
-        database: 'romt'
+        database: '数据库名称'
     }
 }
